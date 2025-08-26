@@ -32,3 +32,17 @@ A modern, mobile-responsive coffee shop website built with **Next.js 15**, **Tai
 - Enter name + phone number in checkout  
 - Click **Confirm on WhatsApp**  
 - A pre-filled WhatsApp message is generated:
+
+---
+
+🚀 **Deployed on Vercel**  
+👉 [Live Demo](https://your-vercel-project-link.vercel.app)  
+
+---
+
+### Credits
+- Created with ❤️ by Biswajit  
+- Generated & coded with **AI assistance**  
+- Built with the help of [v0 by Vercel (VO)](https://v0.app/chat/new-conversation-mPZzCifpIdZ)  
+
+
